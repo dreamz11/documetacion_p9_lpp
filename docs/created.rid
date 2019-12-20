@@ -1,0 +1,16 @@
+Sat, 07 Dec 2019 21:07:25 +0000
+./Gemfile	Sun, 17 Nov 2019 22:21:50 +0000
+./Guardfile	Tue, 19 Nov 2019 18:00:00 +0000
+./spec/spec_helper.rb	Sun, 17 Nov 2019 22:22:30 +0000
+./spec/Practica6_tdd_spec.rb	Sat, 07 Dec 2019 20:55:28 +0000
+./Rakefile	Sun, 17 Nov 2019 22:21:50 +0000
+./lib/Practica6_tdd.rb	Sun, 24 Nov 2019 17:05:21 +0000
+./lib/Practica6_tdd/menu.rb	Sat, 07 Dec 2019 21:06:58 +0000
+./lib/Practica6_tdd/alimento.rb	Sat, 07 Dec 2019 21:07:22 +0000
+./lib/Practica6_tdd/list.rb	Sat, 07 Dec 2019 21:07:14 +0000
+./lib/Practica6_tdd/version.rb	Sun, 17 Nov 2019 22:22:25 +0000
+./Practica6_tdd.gemspec	Tue, 19 Nov 2019 18:00:00 +0000
+./Gemfile.lock	Tue, 19 Nov 2019 18:00:00 +0000
+./README.md	Fri, 06 Dec 2019 19:48:30 +0000
+./bin/console	Sun, 17 Nov 2019 22:22:16 +0000
+./bin/setup	Sun, 17 Nov 2019 22:22:16 +0000
